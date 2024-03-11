@@ -1,0 +1,1261 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Hestate - Real Estate Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Property List",
+            "screenshot": "screenshots\/property-list.jpg",
+            "source": "templates\/property-list.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/property-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Property Detail",
+            "screenshot": "screenshots\/property-detail.jpg",
+            "source": "templates\/property-detail.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/property-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Agent",
+            "screenshot": "screenshots\/agent.jpg",
+            "source": "templates\/agent.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/agent\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact Us",
+            "screenshot": "screenshots\/metform-contact-us.jpg",
+            "source": "templates\/metform-contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/metform-contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/hestate\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.3-dev-2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "modern-house-exterior-e1613531604401.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/modern-house-exterior-800x457.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 218091,
+            "dimensions": [
+                1291,
+                737
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-E3A7NAJ"
+        },
+        {
+            "filename": "overlay-shape@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/overlay-shape@2x-800x438.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37502,
+            "dimensions": [
+                1920,
+                1050
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "overlay-shape2@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/overlay-shape2@2x-800x235.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21363,
+            "dimensions": [
+                1920,
+                564
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "about-substract@2x-e1613019840984.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/about-substract@2x-e1613019702818-800x817.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4474,
+            "dimensions": [
+                800,
+                823
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "Asset-1@2x-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/Asset-1@2x-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13504,
+            "dimensions": [
+                680,
+                284
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-RU8F8W"
+        },
+        {
+            "filename": "Asset-2@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/Asset-2@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9191,
+            "dimensions": [
+                671,
+                259
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-C93HXVA"
+        },
+        {
+            "filename": "Asset-3@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/Asset-3@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10741,
+            "dimensions": [
+                665,
+                209
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-FQHWBC"
+        },
+        {
+            "filename": "Asset-4@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/Asset-4@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11387,
+            "dimensions": [
+                671,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-CD4SSN"
+        },
+        {
+            "filename": "Asset-5@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/Asset-5@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14745,
+            "dimensions": [
+                656,
+                261
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/icon-VWL83K"
+        },
+        {
+            "filename": "2d4lAQAlbDA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/2d4lAQAlbDA-unsplash-800x686.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 310961,
+            "dimensions": [
+                1550,
+                1330
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "unsplash"
+        },
+        {
+            "filename": "interior-design-house-and-modern-white-kitchen.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/interior-design-house-and-modern-white-kitchen-800x656.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 304430,
+            "dimensions": [
+                2000,
+                1641
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z53XFYH"
+        },
+        {
+            "filename": "interior-of-a-rich-house-kitchen-.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/interior-of-a-rich-house-kitchen--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 241787,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JVP2HKE"
+        },
+        {
+            "filename": "balconies-of-a-modern-building-e1613531647314.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/balconies-of-a-modern-building-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 282344,
+            "dimensions": [
+                1290,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDFSMBK"
+        },
+        {
+            "filename": "modern-interior-of-room.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/modern-interior-of-room-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 344583,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P38X9BL"
+        },
+        {
+            "filename": "modern-room-with-balcony.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/modern-room-with-balcony-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 403876,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3E47EA"
+        },
+        {
+            "filename": "small-left-overlay-shape@2x-e1613019412731.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/small-left-overlay-shape@2x-e1613019412731-800x231.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 2553,
+            "dimensions": [
+                1186,
+                343
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "p3e47ea.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/p3e47ea-800x771.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 261611,
+            "dimensions": [
+                1290,
+                1244
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3E47EA"
+        },
+        {
+            "filename": "white-plaster-texture.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/white-plaster-texture-800x589.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 472613,
+            "dimensions": [
+                1920,
+                1414
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "freepik"
+        },
+        {
+            "filename": "about-us-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/about-us-3-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 150449,
+            "dimensions": [
+                1200,
+                675
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "unsplah"
+        },
+        {
+            "filename": "office-building-against-the-sky.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/office-building-against-the-sky-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 341376,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUEGSAN"
+        },
+        {
+            "filename": "testimonial-N8572T7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/testimonial-N8572T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "testimonial-YV9ABZR.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/testimonial-YV9ABZR.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 25367,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "testimonial-M6NJPEF.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2022\/01\/testimonial-M6NJPEF.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 31858,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "quote2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/quote2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 12321,
+            "dimensions": [
+                471,
+                373
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "testimonial.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/testimonial-800x815.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 436013,
+            "dimensions": [
+                1920,
+                1955
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "unsplash"
+        },
+        {
+            "filename": "contemporary-design-living-houses-modern-luxury-apartments-buildings-.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/contemporary-design-living-houses-modern-luxury-apartments-buildings--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 406678,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PULDYE5"
+        },
+        {
+            "filename": "modern-apartment-buildings-e1613531681432.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/modern-apartment-buildings-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 204096,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5M9UK5P"
+        },
+        {
+            "filename": "overlay-right2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/overlay-right2x.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5843,
+            "dimensions": [
+                605,
+                383
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        },
+        {
+            "filename": "agent1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/agent1-800x819.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 112419,
+            "dimensions": [
+                840,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-S979A9Q"
+        },
+        {
+            "filename": "agent3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/agent3-800x819.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 121262,
+            "dimensions": [
+                840,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L722PUH"
+        },
+        {
+            "filename": "agent2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/agent2-800x819.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 96644,
+            "dimensions": [
+                840,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4CKHN58"
+        },
+        {
+            "filename": "facade-1-e1613531711783.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/facade-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 232985,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-X485UQ8"
+        },
+        {
+            "filename": "row-of-neighborhood-houses-e1613531737317.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/row-of-neighborhood-houses-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                }
+            ],
+            "filesize": 204757,
+            "dimensions": [
+                1290,
+                968
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6S9LG4C"
+        },
+        {
+            "filename": "modern-house-facade.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/modern-house-facade-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                }
+            ],
+            "filesize": 447869,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C8VH66F"
+        },
+        {
+            "filename": "facade-e1613531759561.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/facade-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                }
+            ],
+            "filesize": 251288,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YVQAWK"
+        },
+        {
+            "filename": "wpqmt9l.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/wpqmt9l-800x687.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 156424,
+            "dimensions": [
+                1290,
+                1107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WPQMT9L"
+        },
+        {
+            "filename": "7tm92jr.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/7tm92jr-800x687.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 177821,
+            "dimensions": [
+                1290,
+                1107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7TM92JR"
+        },
+        {
+            "filename": "y94mvrg.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/y94mvrg-800x687.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 182660,
+            "dimensions": [
+                1290,
+                1107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y94MVRG"
+        },
+        {
+            "filename": "5x9dupv.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/5x9dupv-800x687.jpg",
+            "templates": [
+                {
+                    "source": "templates\/property-detail.json",
+                    "name": "Property Detail"
+                }
+            ],
+            "filesize": 380451,
+            "dimensions": [
+                1290,
+                1107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5X9DUPV"
+        },
+        {
+            "filename": "team-meeting-brainstorming-planning-analysing-concept.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/team-meeting-brainstorming-planning-analysing-concept-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 443705,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF3Q7B4"
+        },
+        {
+            "filename": "ceo.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/ceo-800x819.jpg",
+            "templates": [
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 118693,
+            "dimensions": [
+                840,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJYHPDB"
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/signature-800x283.png",
+            "templates": [
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 23513,
+            "dimensions": [
+                920,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/purxious-signature-GDYV9E4"
+        },
+        {
+            "filename": "vu-anh.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/vu-anh-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/agent.json",
+                    "name": "Agent"
+                }
+            ],
+            "filesize": 255915,
+            "dimensions": [
+                1290,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "unsplash"
+        },
+        {
+            "filename": "illuminated-house-at-night.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/illuminated-house-at-night-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 370385,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BQA8QZC"
+        },
+        {
+            "filename": "faq-8DHXD4V.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/faq-8DHXD4V-800x686.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 61910,
+            "dimensions": [
+                900,
+                772
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8DHXD4V"
+        },
+        {
+            "filename": "logo-hestate-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/logo-hestate-3-800x266.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 38091,
+            "dimensions": [
+                1922,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-circle-cross-infinity-loop-labyrinth-maze-FJ4V9H"
+        },
+        {
+            "filename": "just-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/just-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 20495,
+            "dimensions": [
+                639,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-circle-cross-infinity-loop-labyrinth-maze-FJ4V9H"
+        },
+        {
+            "filename": "footer-overlay2x-e1613019434568.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/hestate\/wp-content\/uploads\/sites\/40\/2021\/02\/footer-overlay2x-e1613013217177-800x438.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 80628,
+            "dimensions": [
+                599,
+                326
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/hestate\/"
+        }
+    ]
+}
